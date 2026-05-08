@@ -12,7 +12,7 @@ I'm a builder, and the founder of Mara — a Saudi AI startup <br><br>I love tur
 ![](https://streak-stats.demolab.com/?user=justAbdulaziz10&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=justAbdulaziz10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
