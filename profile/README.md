@@ -22,7 +22,7 @@ I'm a builder, and the founder of Mara — a Saudi AI startup <br><br>I love tur
 [![](https://komarev.com/ghpvc/?username=justAbdulaziz10&icon=2&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/justabdulaziz10) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/someoneveryverybored) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
