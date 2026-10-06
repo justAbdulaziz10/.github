@@ -101,14 +101,6 @@
 
 ###
 
-<h2 data-importer="text" align="left">contributions</h2>
-
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/justAbdulaziz10/justAbdulaziz10/snake-output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div data-importer="profile-views" align="center">
