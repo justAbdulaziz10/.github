@@ -1,10 +1,23 @@
-<h2 data-importer="text" align="left">About Me:</h2>
+## Who am I?
+```python
+class WhoAmI:
+    user = 'Abdulaziz Alkhlaiwe'
+    major = 'Computer Information System'
+    Work = 'Busy Building with Mara'
 
-###
+    interests = [
+        'Building real world systems',
+        'Artificial Intelligence',
+        'System design',
+        'Autonomous Systems',
+    ]
 
-<h5 data-importer="text" align="left">I'm Abdulaziz Alkhlaiwe, a Computer Information Systems graduate, software builder, and tech startup founder from Saudi Arabia.<br><br>I'm the Co-Founder & CEO of Mara, where I work on building and shipping digital products across AI, mobile applications, and consumer software.<br><br>My main interests are Artificial Intelligence, Software Engineering, Product Development, Systems, and Startups. I enjoy turning ideas into real products—from architecture and backend systems to mobile apps, AI agents, APIs, and production deployment.<br><br>I'm especially interested in:<br><br>Applied AI & AI Agents<br>Backend & Systems Engineering<br>iOS, Android & Cross-Platform Development<br>Product Engineering<br>Databases & Cloud Infrastructure<br>Developer Tools & Automation<br>Startups, experimentation & rapid product building<br><br>I’m continuously learning, experimenting, and building with the goal of creating technology that solves meaningful problems at scale.</h5>
-
-###
+    def ambitions():
+        BuildingStartup()
+        ExploreNewTech()
+        Shiping()
+        BuildAutonomousSystems()
+````
 
 
 ###
